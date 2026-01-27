@@ -1,0 +1,10 @@
+[workspace]
+members = [
+  "crates/mcp-protocol",
+  "crates/mcp-registry",
+  "crates/mcp-server-demo",
+  "bins/mcp-registryd",
+  "bins/mcp-client-demo"
+]
+resolver = "2"
+

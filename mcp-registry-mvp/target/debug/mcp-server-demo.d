@@ -1,0 +1,1 @@
+/Users/rajeshdave/mcp-registry-mvp/mcp-registry-mvp/target/debug/mcp-server-demo: /Users/rajeshdave/mcp-registry-mvp/mcp-registry-mvp/crates/mcp-protocol/src/lib.rs /Users/rajeshdave/mcp-registry-mvp/mcp-registry-mvp/crates/mcp-server-demo/src/main.rs

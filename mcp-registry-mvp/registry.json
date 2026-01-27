@@ -1,0 +1,9 @@
+[
+  {
+    "server_id": "finance.mcp.local",
+    "endpoint": "http://127.0.0.1:9001",
+    "tools": ["invoice_lookup"],
+    "scope": "finance"
+  }
+]
+

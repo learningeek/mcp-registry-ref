@@ -1,0 +1,10 @@
+[package]
+name = "mcp-registryd"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+mcp-registry = { path = "../../crates/mcp-registry" }
+serde = "1.0.228"
+
