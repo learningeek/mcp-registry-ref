@@ -1,1 +1,0 @@
-/Users/rajeshdave/mcp-registry-mvp/mcp-registry-mvp/target/debug/mcp-client-demo: /Users/rajeshdave/mcp-registry-mvp/mcp-registry-mvp/bins/mcp-client-demo/src/main.rs /Users/rajeshdave/mcp-registry-mvp/mcp-registry-mvp/crates/mcp-protocol/src/lib.rs
